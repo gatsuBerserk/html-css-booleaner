@@ -65,4 +65,20 @@ table{
 
 .centrato{
     text-align: center;
+} 
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+.grafico{
+    background-image: url(../img/graph.jpg); 
+    width: 250px; 
+    height: 200px;
+} 
+
+.info-foto{
+    font-size: 30px; 
+    color: whitesmoke;
 }
