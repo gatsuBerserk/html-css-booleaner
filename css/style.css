@@ -11,10 +11,35 @@ header{
 	height:20vh;
     background-color: rgb(78, 160, 255); 
     background-image: url(../img/pattern.png);
-} 
+}
+
+main{
+    margin-left: 5px;
+}
+
 #logo{
     position:absolute ;
     width: 250px; 
     bottom: 10px;
     left: 10px;
+} 
+.titolo{
+    font-size: 50px;
+    font-style: italic;
+}
+
+.color{
+    color: rgb(115, 115, 115); 
+} 
+
+p{
+    font-size:10px;
+}
+ 
+.tim{
+    margin-top: 20px;
+} 
+
+.descrizione{
+    font-size: small;
 }
