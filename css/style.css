@@ -1,0 +1,20 @@
+*{
+    font-family: 'Ubuntu', sans-serif; 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+header{
+    position: relative; 
+    width:100vw;
+	height:20vh;
+    background-color: rgb(78, 160, 255); 
+    background-image: url(../img/pattern.png);
+} 
+#logo{
+    position:absolute ;
+    width: 250px; 
+    bottom: 10px;
+    left: 10px;
+}
