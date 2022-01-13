@@ -19,10 +19,13 @@ main{
 .titolo{
     font-size: 50px;
     font-style: italic;
+    margin-bottom: 5px;
 }
 
 .color{
     color: rgb(115, 115, 115); 
+    margin-top: 5px;
+    margin-bottom: 5px;
 } 
 
 p{
@@ -34,7 +37,9 @@ p{
 } 
 
 .descrizione{
-    font-size: small;
+    font-size: 15px; 
+    margin-top: 5px;
+    margin-bottom: 5px;
 }  
 
 h3{
@@ -54,17 +59,20 @@ table{
     background-color:rgb(32, 169, 229) ; 
     text-align: left;
 } 
+.colore-testo{
+    color: whitesmoke;
+} 
+
+.larghezza-cella{
+    width: 20%; 
+}
 
 .colortable{
     background-color: rgb(177, 229, 242);
 } 
 
-/* .altezza{
-    height: 50px;
-} */ 
-
-.centrato{
-    text-align: center;
+.allineamento-sx{
+    text-align: left;
 } 
 
 .monitor{
