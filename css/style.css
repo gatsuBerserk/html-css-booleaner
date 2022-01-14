@@ -53,6 +53,7 @@ h3{
 
 table{
     width: 100%;
+    border-spacing: 0px;  /* serve per togliere gli spazi tra le tabelle */
 } 
 
 .testa{
